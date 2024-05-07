@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "834285495902",
+    "project_id": "foodie-bites-91dd1",
+    "storage_bucket": "foodie-bites-91dd1.appspot.com",
+    "firebase_url": "https://foodie-bites-91dd1-default-rtdb.asia-southeast1.firebasedatabase.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834285495902:android:117b3dbfc84bd55f0b76cf",
+        "android_client_info": {
+          "package_name": "com.example.food_bites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoNnFApalbFHr0DMPoQr35z1ljm6tEdnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
